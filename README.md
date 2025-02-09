@@ -45,7 +45,3 @@ Dalej można już załadować makro i uruchomić funkcję
 draw_histo("signals.root", "signal_tree");
 ```
 
-
-Wymagania:
-
-    Środowisko ROOT (wersja 6.x lub wyższa).
